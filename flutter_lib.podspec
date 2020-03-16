@@ -8,10 +8,8 @@
 Pod::Spec.new do |s|
   s.name             = 'flutter_lib'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of flutter-lib.'
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.summary          = 'flutter lib库 flutter lib库.'
+  s.description      = 'flutter lib库 flutter lib库..'
 
   s.homepage         = 'https://github.com/bluesea/flutter-lib'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
