@@ -13,10 +13,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/cjl_spy@163.com/flutter-lib'
+  s.homepage         = 'https://github.com/bluesea/flutter-lib'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'cjl_spy@163.com' => 'cjl_spy@163.com' }
-  s.source           = { :git => 'https://github.com/cjl_spy@163.com/flutter-lib.git', :tag => s.version.to_s }
+  s.author           = { 'pingyandong0510@126.com' => 'pingyandong0510@126.com' }
+  s.source           = { :git => 'https://github.com/bluesea/flutter-lib.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
   s.static_framework = true
   # s.source_files = 'flutter-lib/Classes/**/*'
