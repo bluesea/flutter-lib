@@ -7,7 +7,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_lib'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'flutter lib库 flutter lib库.'
   s.description      = 'flutter lib库 flutter lib库..'
 
